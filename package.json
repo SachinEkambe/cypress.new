@@ -1,0 +1,21 @@
+{
+  "name": "cypre.pkg",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sachin",
+  "license": "ISC",
+  "dependencies": {
+    "cypress-iframe": "^1.0.1",
+    "D": "^1.0.0",
+    "xpath": "^0.0.32"
+  },
+  "devDependencies": {
+    "@4tw/cypress-drag-drop": "^2.2.4",
+    "cypress": "^12.16.0",
+    "cypress-file-upload": "^5.0.8"
+  }
+}
